@@ -1,0 +1,24 @@
+//:numbered!:
+
+// *****************************************************************************
+// Editors please do not alter anything in this file!
+// *****************************************************************************
+
+.[big]*{category}*
+
+*COPYRIGHT*
+
+Copyright © {copyrightYear} International Hydrographic Organization.
+To obtain additional rights of use, visit http://iho.int/
+
+
+*WARNING*
+
+
+*LICENSE AGREEMENT*
+
+
+
+toc::[]
+
+

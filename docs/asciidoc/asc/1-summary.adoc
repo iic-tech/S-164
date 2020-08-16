@@ -1,0 +1,37 @@
+= Introduction and Background
+
+Introduction to IHO S-64 version 4
+
+== Executive Summary
+
+* Main points of document.
+
+== Background
+
+Background here - use of S-64 to assist type approval testing.
+
+
+===	IHO S-100
+* Background to development of IHO S-100
+* Marine Standards.
+
+
+===	Document contributor contact points
+
+All questions regarding this document should be directed to the editor or the contributors:
+
+*Contacts*
+[width="80%",options="header",caption=""]
+|====================
+|Name |Organization | Role
+|((Jonathan Pritchard)) | (( IIC Technologies )) | ((Editor))
+|====================
+
+
+// *****************************************************************************
+// Editors please do not change the Foreword.
+// *****************************************************************************
+=== Foreword
+Copyright statements etc...
+
+Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.
